@@ -23,6 +23,10 @@ I enjoy programming and want to do what I love. I like the feeling of immersion 
 - Mobile: +7 (916) 502-87-14
 - HeadHunter: [https://hh.ru/resume/989bc677ff0ba0ca800039ed1f6134555a6844](https://hh.ru/resume/989bc677ff0ba0ca800039ed1f6134555a6844)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saveforweb)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saveforweb)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **saveforweb/saveforweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
