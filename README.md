@@ -1,8 +1,8 @@
-## Hi there! I'm a frontend developer
+## Всем привет, меня зовут Антон
 
-I enjoy programming and want to do what I love. I like the feeling of immersion and flow when solving problems. I also want to become a part of a useful project, a part of a big story.
+Получаю удовольствие от программирования и хочу заниматься любимым делом. Нравится ощущение погружения и потока при решении задач. А также хочется стать частью полезного проекта, частью большой истории. Горжусь тем, что я делал: долгое время создавал полезные для компаний проекты в формате заказной веб-разработки в роли партнера компании, менеджера проектов и дизайнера интерфейсов. Полученный опыт мне хочется соединить с программированием и посмотреть, что получится.
 
-### My stack
+### Мой стак
 - JavaScript
 - React
 - HTML
@@ -11,17 +11,17 @@ I enjoy programming and want to do what I love. I like the feeling of immersion 
 - Node.js
 - Express
 
-### I have design skill
+### У меня есть навыки в дизайне
 - Figma
 - Adobe Photoshop
 - Adobe Illustrator
-- [My portfolio](https://www.behance.net/antonbbbro) 
+- [Мое портфолио](https://www.behance.net/antonbbbro) 
 
-### Contacts
-- E-mail: popov.anton.a@gmail.com
+### Контакты
+- Электронная почта: popov.anton.a@gmail.com
 - Telegram: [https://t.me/saveforweb](https://t.me/saveforweb)
-- Mobile: +7 (916) 502-87-14
-- HeadHunter: [https://hh.ru/resume/989bc677ff0ba0ca800039ed1f6134555a6844](https://hh.ru/resume/989bc677ff0ba0ca800039ed1f6134555a6844)
+- Телефон: +7 (916) 502-87-14
+- Резюме: [https://hh.ru/resume/989bc677ff0ba0ca800039ed1f6134555a6844](https://hh.ru/resume/989bc677ff0ba0ca800039ed1f6134555a6844)
 
 
 
