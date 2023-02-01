@@ -6,7 +6,7 @@
 - ⚡ Учусь на факультете веб-разработки в Я.Практикум
 
 ### Мой стек
-- JavaScript, React, HTML, CSS, Git, Node.js, Express
+- JavaScript, React, HTML, CSS, Git, Node.js, Express, Webpack
 
 ### У меня есть опыт и навыки в дизайне
 - Figma, Adobe Photoshop, Adobe Illustrator
